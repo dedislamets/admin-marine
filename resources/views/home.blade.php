@@ -56,29 +56,7 @@
                                 </div>
                             </div>
                             <div class="divider"></div>
-                            <!-- <ul class="reset-ul mrg5B">
-                                <li>
-                                    <a href="#">
-                                        <i class="glyph-icon float-right icon-caret-right"></i>
-                                        View login page example
-                                        
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <i class="glyph-icon float-right icon-caret-right"></i>
-                                        View lockscreen example
-                                        
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <i class="glyph-icon float-right icon-caret-right"></i>
-                                        View account details
-                                        
-                                    </a>
-                                </li>
-                            </ul> -->
+                            
                             <div class="pad5A button-pane button-pane-alt text-center">
                                 <a href="{{ url('/logout') }}" class="btn display-block font-normal btn-danger">
                                     <i class="glyph-icon icon-power-off"></i>
